@@ -1,0 +1,27 @@
+print('are you ready?(enter yes or no)')
+a = str(input())
+if a in ['yes']:
+    print("Let's go")
+    print('I will ask you several questions and then you will get the result')
+else:
+    print("I don't give a fuck, you have to be ready, piece of shit")
+print('Question 1. Put your name')
+b = str(input())
+print('Hey', ',', b, '.', 'I actually hate this name but okay')
+print('Question 2. Are you a boy')
+v = str(input())
+if v in ['yes']:
+    print('Alright')
+else:
+    print('then you are a girl, I hope you are hot')
+print('Question 3. How old are you?')
+d = str(input())
+print('You can make love in', d, '...the last question,ready?')
+h = str(input())
+print('Question 4. Home?')
+h = str(input())
+print('You was ALABAMED')
+print('Sweet home Alabama')
+print('Where the skies are so blue')
+print('Sweet home Alabama')
+print('Lord I am coming to you')
